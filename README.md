@@ -1,10 +1,16 @@
-### Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<a href="https://www.linkedin.com/in/akash-patil-371a17209/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/patilakashh">
+  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
-
-- 🔭 I’m currently a CS student at VIT, Pune.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:a24k3p1@gmail.com)
+### I am Akash Patil
+- 🔭 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+- 📚 Studying as an Undergraduate Student at VIT, Pune. 
+- 📑 Currently working on some of my cool side projects based on Web Development and Machine Learning.
+- 😁 I'm looking for opportunities. I love to learn and contribute in any and every possible way.
